@@ -1,3 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-29T23:12:44+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">Launch of PyData Dublin at Workday</title><link href="/pydata-dub-launch/" rel="alternate" type="text/html" title="Launch of PyData Dublin at Workday" /><published>2017-09-29T00:00:00+01:00</published><updated>2017-09-29T00:00:00+01:00</updated><id>/pydata-dub-launch</id><content type="html" xml:base="/pydata-dub-launch/">&lt;!-- ###### Launch of PyData Dublin at Workday --&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-29T23:56:54+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin at 404 - The Ultimate Tech Meetup</title><link href="/404/" rel="alternate" type="text/html" title="PyData Dublin at 404 - The Ultimate Tech Meetup" /><published>2017-09-29T00:00:00+01:00</published><updated>2017-09-29T00:00:00+01:00</updated><id>/404</id><content type="html" xml:base="/404/">&lt;h6 id=&quot;pydata-dublin-at-404---the-ultimate-tech-meetup&quot;&gt;PyData Dublin at 404 - The Ultimate Tech Meetup&lt;/h6&gt;
+
+&lt;p&gt;Next Saturday, PyData Dublin will be heading to&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;location&lt;/li&gt;
+  &lt;li&gt;Why is pydata dublin there?&lt;/li&gt;
+  &lt;li&gt;Speakers and installations look cool.&lt;/li&gt;
+  &lt;li&gt;Mostly: looks like a fun day out for tech enthusiasts to get together and network.&lt;/li&gt;
+  &lt;li&gt;They’ve even featured in the news: link to RTE.&lt;/li&gt;
+  &lt;li&gt;Join us! Here’s a 10% discount code: PYDATA-DUB&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">PyData Dublin at 404 - The Ultimate Tech Meetup</summary></entry><entry><title type="html">Launch of PyData Dublin at Workday</title><link href="/pydata-dub-launch/" rel="alternate" type="text/html" title="Launch of PyData Dublin at Workday" /><published>2017-09-29T00:00:00+01:00</published><updated>2017-09-29T00:00:00+01:00</updated><id>/pydata-dub-launch</id><content type="html" xml:base="/pydata-dub-launch/">&lt;!-- ###### Launch of PyData Dublin at Workday --&gt;
 &lt;p&gt;&lt;br /&gt;
-Fantastics launch&lt;/p&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">A summary of our first event held in Workday, Dublin.</summary></entry></feed>
+To overlay title or not to overaly title…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Workday sponsored pizza and beer (and many other random nibbles).&lt;/li&gt;
+  &lt;li&gt;Beautiful space and all the tech worked.&lt;/li&gt;
+  &lt;li&gt;First talk was by Barry. Summarize, image(s), link to video, link to slides, link to paper.&lt;/li&gt;
+  &lt;li&gt;Second talk was Derek. Summarize, images, link to video, link to slides, link to repo.&lt;/li&gt;
+  &lt;li&gt;Headed to Dice bar afterwards.&lt;/li&gt;
+  &lt;li&gt;Interested in presenting a talk? We’re currently looking for lightning talk speakers. Send us your proposals for a 5min max overview of a project/package/library that you’ve found useful or interesting.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">A summary of our first event held in Workday, Dublin.</summary></entry></feed>
