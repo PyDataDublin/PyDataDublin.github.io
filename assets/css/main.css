@@ -4155,7 +4155,7 @@ li ul, li ol { margin-top: 0.5em; line-height: 1.7; text-rendering: optimizeLegi
 
 /* Media and embeds ========================================================================== */
 /* Figures and images */
-figure { display: -webkit-box; display: flex; -webkit-box-pack: justify; justify-content: space-between; -webkit-box-align: start; align-items: flex-start; flex-wrap: wrap; margin: 2em 0; }
+figure { display: -webkit-box; display: flex; -webkit-box-pack: justify; justify-content: space-between; -webkit-box-align: start; align-items: flex-start; flex-wrap: wrap; margin: 2em 0; align-items: center; }
 figure img, figure iframe, figure .fluid-width-video-wrapper { margin-bottom: 1em; }
 figure img { width: 100%; border-radius: 4px; -webkit-transition: all 0.2s ease-in-out; transition: all 0.2s ease-in-out; }
 figure > a { display: block; }

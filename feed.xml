@@ -1,23 +1,92 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-09-29T23:56:54+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin at 404 - The Ultimate Tech Meetup</title><link href="/404/" rel="alternate" type="text/html" title="PyData Dublin at 404 - The Ultimate Tech Meetup" /><published>2017-09-29T00:00:00+01:00</published><updated>2017-09-29T00:00:00+01:00</updated><id>/404</id><content type="html" xml:base="/404/">&lt;h6 id=&quot;pydata-dublin-at-404---the-ultimate-tech-meetup&quot;&gt;PyData Dublin at 404 - The Ultimate Tech Meetup&lt;/h6&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2017-10-01T00:17:11+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin at 404 - The Ultimate Tech Meetup</title><link href="/404/" rel="alternate" type="text/html" title="PyData Dublin at 404 - The Ultimate Tech Meetup" /><published>2017-09-30T00:00:00+01:00</published><updated>2017-09-30T00:00:00+01:00</updated><id>/404</id><content type="html" xml:base="/404/">&lt;h6 id=&quot;pydata-dublin-at-404&quot;&gt;PyData Dublin at 404&lt;/h6&gt;
 
-&lt;p&gt;Next Saturday, PyData Dublin will be heading to&lt;/p&gt;
+&lt;p&gt;Next Saturday, PyData Dublin will be heading to the Royal Hospital, Kilmainham for 404, an event which describes itself as:&lt;/p&gt;
 
+&lt;blockquote&gt;
+  &lt;p&gt;The Ultimate Tech Meetup&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;It’s an all day affair with a variety of speakers and installations from different tech communities. The agenda itself can be found &lt;a href=&quot;https://www.404.ie/agenda#main-stage&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Personally, I’m really looking forward to just being at the same venue as 40+ different Dublin tech meetup organizers! I’m also excited to see &lt;a href=&quot;https://www.404.ie/speakers/?speaker=katharine-jarmul&quot; target=&quot;_blank&quot;&gt;Katharine Jarmul&lt;/a&gt;, the person who first got me interested in PyData in the first place.&lt;/p&gt;
+
+&lt;p&gt;All in all, it looks set to be a fun and simulating day out for tech enthusiasts of all levels. It has even been featured as a part of &lt;a href=&quot;https://www.rte.ie/eile/tech/2017/0926/907711-404-uncovered-how-we-built-dublins-newest-tech-event/&quot; target=&quot;_blank&quot;&gt;RTE’s Tech News&lt;/a&gt;! Needless to say, we’re definitely thrilled to have a chance to be there as PyData Dublin. If you’d like to join us, tickets can be purchased &lt;a href=&quot;https://www.eventbrite.ie/e/404-tickets-35232778188&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt; and are only €22.50 when you use the 10% discount code: PYDATA-DUB&lt;/p&gt;
+
+&lt;p&gt;I look forward to updating this post next week with my highlights from the day.&lt;/p&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">PyData Dublin at 404 - The Ultimate Tech Meetup</summary></entry><entry><title type="html">Launch of PyData Dublin at Workday</title><link href="/pydata-dub-launch/" rel="alternate" type="text/html" title="Launch of PyData Dublin at Workday" /><published>2017-09-29T00:00:00+01:00</published><updated>2017-09-29T00:00:00+01:00</updated><id>/pydata-dub-launch</id><content type="html" xml:base="/pydata-dub-launch/">&lt;h6 id=&quot;launch-of-pydata-dublin-at-workday&quot;&gt;Launch of PyData Dublin at Workday&lt;/h6&gt;
+
+&lt;p&gt;On Wednesday, 27th September 2017, PyData Dublin was launched! The inaugural event was hosted by &lt;a href=&quot;http://www.workday.com/en-us/pages/careers-dublin.html/&quot; target=&quot;_blank&quot;&gt;Workday&lt;/a&gt;, who provided their panoramic sixth floor located in the heart of Smithfield, Dublin, along with a variety of refreshments (including pizza and beer) especially for the occasion. Members began to arrive and network from 18:00 until around 18:50, where after a brief introduction to PyData, our first speaker Prof. Barry Smyth began his talk.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/pydata-workday-badges.png&quot;&gt;&lt;img src=&quot;/assets/images/pydata-workday-badges.png&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/pydata-workday-setup.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-workday-setup.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Attendee badges awaiting collection in the reception of Workday. Organizers of PyData Dublin during setup for talks.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;running-with-data-how-marathon-data-can-help-runners-to-achieve-faster-times&quot;&gt;Running with Data: How Marathon Data can Help Runners to Achieve Faster Times.&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.insight-centre.org/users/barry-smyth&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Prof. Barry Smyth&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w&quot; target=&quot;_blank&quot; style=&quot;color:#ec904a;&quot;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt; * &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;https://www.slideshare.net/bsmyth/running-with-data-how-marathon-data-can-help-runners-to-achieve-faster-finishtimes&quot; target=&quot;_blank&quot; style=&quot;color:#8b8d32;&quot;&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;* Note: Videos will be uploaded shortly.
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Every year millions of people around the world run marathons. As race-day approaches, and training schedules begin to wind down, many participants will turn their attention to their race strategy. In this talk we will describe a machine learning approach to supporting runners in this process by helping them to select a suitable target finish-time and a race-plan to achieve it.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure&gt;
+  &lt;a href=&quot;/assets/images/pydata-bs2-workday.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-bs2-workday.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Barry Smyth describing how he used 'Scrapy', a Python scraping and web crawling framework, to collect the marathon data.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;What better time to have a talk on using data for personal best prediction than with the Dublin Marathon just around the corner. During his talk, Barry describes how he first collected data from a large number of marathon websites using &lt;a href=&quot;https://scrapy.org&quot; target=&quot;_blank&quot;&gt;Scrapy&lt;/a&gt;, a Python scraping and web crawling framework. Then, using case based reasoning in combination with machine learning approaches (such as kNN, linear regression, random forests, and elastic nets), they were able to derive accurate predictions of personal best times across all levels of ability with less than %5 prediction error. Highlighting the huge potential that A.I. tools and techniques developed in other domains, such as recommender systems, have in the future of personalized and adaptive lifestyle assistants.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/pydata-bs-workday.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-bs-workday.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/pydata-bs3-workday.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-bs3-workday.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Barry Smyth presenting 'Running with Data: How Marathon Data can Help Runners to Achieve Faster Times.'&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;topic-modelling-with-scikit-learn&quot;&gt;Topic Modelling with scikit-learn&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.insight-centre.org/users/derek-greene&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Dr. Derek Greene&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCOjD18EJYcsBog4IozkF_7w&quot; target=&quot;_blank&quot; style=&quot;color:#ec904a;&quot;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt; * &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;https://github.com/derekgreene/topic-model-tutorial&quot; target=&quot;_blank&quot; style=&quot;color:#8b8d32;&quot;&gt;&lt;strong&gt;Slides and Code&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;* Note: Videos will be uploaded shortly.
+&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Topic models aim to automatically discover the underlying thematic structure in a collection of documents. Popular approaches include Latent Dirichlet Allocation (LDA) and Non-negative Matrix Factorisation (NMF). In this talk I will describe how to use the Python scikit-learn package to preprocess a document collection, to apply both LDA and NMF to generate topic models, and then to explore the resulting models to get a better understanding of the contents of the collection.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/pydata-dg5-workday.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-dg5-workday.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/pydata-dg2-workday.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-dg2-workday.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Derek Greene presenting his talk 'Topic Modelling with Scikit-Learn'. Second image displays an example of a typical text preprocessing pipeline for a document corpus.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Dr. Derek Greene presented the second talk of the evening, where he walked through how easy it can be to efficiently perform text processing, representation, and topic modelling using Python’s scikit-learn package. In fact, he has provided all materials used for the talk as notebooks which can be found &lt;a href=&quot;https://github.com/derekgreene/topic-model-tutorial&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Interestingly, although the talk focused on applying topic modelling to documents, Derek noted that topic modelling has also been applied to non-textual datasets to. A recent example being Nathanael Aff’s: &lt;a href=&quot;http://nateaff.com/2017/09/11/lego-topic-models/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;LEGO color themes as topic models&lt;/em&gt;&lt;/a&gt;. Finally, Derek touched on the practical issues associated with topic modelling, emphasizing how it’s best used as an exploratory tool to aid human interpretation and how domain knowledge is critical.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;a href=&quot;/assets/images/pydata-dg4-workday.png&quot;&gt;&lt;img src=&quot;/assets/images/pydata-dg4-workday.png&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Derek Greene explaining the practical issues associated with topic modelling.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;workday---venue-food-and-drinks&quot;&gt;Workday - Venue, Food, and Drinks&lt;/h2&gt;
+
+&lt;p&gt;A massive thanks again to Workday who provided the great venue, food, and drinks for the night! They’re currently looking for talent across a number of different technical roles ranging from software developers to data scientists. For more information check out their website &lt;a href=&quot;https://www.workday.com/en-us/pages/careers-dublin.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/workday-logo.png&quot;&gt;&lt;img src=&quot;/assets/images/workday-logo.png&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/pydata-workday-crowd.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-workday-crowd.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;First image: Workday logo. Second image: Attendees of PyData Dublin enjoying the talks.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;want-to-present-or-host-an-event&quot;&gt;Want to Present or Host an Event?&lt;/h2&gt;
+
+&lt;p&gt;Finally, if you’d like to present a talk or become a host for one of our events, please feel free to contact us through one of our many public forums (Twitter being the most active) or via email at:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/pydatadub-email.png&quot; height=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re interested in a range of different talk types:&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;location&lt;/li&gt;
-  &lt;li&gt;Why is pydata dublin there?&lt;/li&gt;
-  &lt;li&gt;Speakers and installations look cool.&lt;/li&gt;
-  &lt;li&gt;Mostly: looks like a fun day out for tech enthusiasts to get together and network.&lt;/li&gt;
-  &lt;li&gt;They’ve even featured in the news: link to RTE.&lt;/li&gt;
-  &lt;li&gt;Join us! Here’s a 10% discount code: PYDATA-DUB&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">PyData Dublin at 404 - The Ultimate Tech Meetup</summary></entry><entry><title type="html">Launch of PyData Dublin at Workday</title><link href="/pydata-dub-launch/" rel="alternate" type="text/html" title="Launch of PyData Dublin at Workday" /><published>2017-09-29T00:00:00+01:00</published><updated>2017-09-29T00:00:00+01:00</updated><id>/pydata-dub-launch</id><content type="html" xml:base="/pydata-dub-launch/">&lt;!-- ###### Launch of PyData Dublin at Workday --&gt;
-&lt;p&gt;&lt;br /&gt;
-To overlay title or not to overaly title…&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Workday sponsored pizza and beer (and many other random nibbles).&lt;/li&gt;
-  &lt;li&gt;Beautiful space and all the tech worked.&lt;/li&gt;
-  &lt;li&gt;First talk was by Barry. Summarize, image(s), link to video, link to slides, link to paper.&lt;/li&gt;
-  &lt;li&gt;Second talk was Derek. Summarize, images, link to video, link to slides, link to repo.&lt;/li&gt;
-  &lt;li&gt;Headed to Dice bar afterwards.&lt;/li&gt;
-  &lt;li&gt;Interested in presenting a talk? We’re currently looking for lightning talk speakers. Send us your proposals for a 5min max overview of a project/package/library that you’ve found useful or interesting.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">A summary of our first event held in Workday, Dublin.</summary></entry></feed>
+  &lt;li&gt;5 minute lightning talks, from describing a library you’ve found useful, to things you wish you’d known when you first started, or even the top 5 packages that you couldn’t live without.&lt;/li&gt;
+  &lt;li&gt;15-20 minute talk with questions. Perhaps you’ve recently written a blog, project, or paper that relates to data analysis, management, processing, or visualization. Let us know and we can help you share it with the larger PyData community.&lt;/li&gt;
+  &lt;li&gt;40 minute tutorial with questions, not only would you like to share your work but you’re interested in teaching/providing examples of the implementation behind it to.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">A summary of our first event held in Workday, Dublin, with links to accompanying videos, slides, and code.</summary></entry></feed>
