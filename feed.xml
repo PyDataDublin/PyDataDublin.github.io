@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-20T19:54:31+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin \#6 at Google</title><link href="/meetup-6/" rel="alternate" type="text/html" title="PyData Dublin \#6 at Google" /><published>2018-08-30T00:00:00+01:00</published><updated>2018-08-30T00:00:00+01:00</updated><id>/meetup-6</id><content type="html" xml:base="/meetup-6/">&lt;h6 id=&quot;pydata-dublin-6-at-google&quot;&gt;PyData Dublin #6 at Google&lt;/h6&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-20T20:09:31+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin \#6 at Google</title><link href="/meetup-6/" rel="alternate" type="text/html" title="PyData Dublin \#6 at Google" /><published>2018-08-30T00:00:00+01:00</published><updated>2018-08-30T00:00:00+01:00</updated><id>/meetup-6</id><content type="html" xml:base="/meetup-6/">&lt;h6 id=&quot;pydata-dublin-6-at-google&quot;&gt;PyData Dublin #6 at Google&lt;/h6&gt;
 
 &lt;p&gt;After a wee interval over the summer months, the 6th PyData Dublin meetup took place on Thursday evening, 30th August 2018. The end of the summer event was hosted by &lt;a href=&quot;https://careers.google.com/locations/dublin/&quot; target=&quot;_blank&quot;&gt;Google&lt;/a&gt; on their wonderful Ocean’s Eleven floor at their Grand Mill Quay offices, Dublin. along with a variety of refreshments (including pizza and beer) specially for the occasion.&lt;/p&gt;
 
@@ -61,26 +61,21 @@
 &lt;/blockquote&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
-  &lt;a href=&quot;/assets/images/pydata-dg5-workday.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-dg5-workday.jpg&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;/assets/images/pydata-dg2-workday.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-dg2-workday.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/6-google/neal.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/neal.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/6-google/neal-glue.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/neal-glue.jpg&quot; /&gt;&lt;/a&gt;
   &lt;figcaption&gt;Derek Greene presenting his talk 'Topic Modelling with Scikit-Learn'. Second image displays an example of a typical text preprocessing pipeline for a document corpus.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;Dr. Derek Greene presented the second talk of the evening, where he walked through how easy it can be to efficiently perform text processing, representation, and topic modelling using Python’s scikit-learn package. In fact, he has provided all materials used for the talk as notebooks which can be found &lt;a href=&quot;https://github.com/derekgreene/topic-model-tutorial&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Interestingly, although the talk focused on applying topic modelling to documents, Derek noted that topic modelling has also been applied to non-textual datasets to. A recent example being Nathanael Aff’s: &lt;a href=&quot;http://nateaff.com/2017/09/11/lego-topic-models/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;LEGO color themes as topic models&lt;/em&gt;&lt;/a&gt;. Finally, Derek touched on the practical issues associated with topic modelling, emphasizing how it’s best used as an exploratory tool to aid human interpretation and how domain knowledge is critical.&lt;/p&gt;
-
-&lt;figure&gt;
-  &lt;a href=&quot;/assets/images/pydata-dg4-workday.png&quot;&gt;&lt;img src=&quot;/assets/images/pydata-dg4-workday.png&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Derek Greene explaining the practical issues associated with topic modelling.&lt;/figcaption&gt;
-&lt;/figure&gt;
 
 &lt;h2 id=&quot;google---venue-food-and-drinks&quot;&gt;Google - Venue, Food, and Drinks&lt;/h2&gt;
 
 &lt;p&gt;A massive thanks again to Google who provided the amazing venue, food, and drinks for the night! They’re currently looking for talent across a number of different technical roles ranging from software developers to data scientists. For more information check out their website &lt;a href=&quot;https://www.workday.com/en-us/pages/careers-dublin.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
-  &lt;a href=&quot;/assets/images/workday-logo.png&quot;&gt;&lt;img src=&quot;/assets/images/workday-logo.png&quot; /&gt;&lt;/a&gt;
-  &lt;a href=&quot;/assets/images/pydata-workday-crowd.jpg&quot;&gt;&lt;img src=&quot;/assets/images/pydata-workday-crowd.jpg&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;First image: Workday logo. Second image: Attendees of PyData Dublin enjoying the talks.&lt;/figcaption&gt;
+  &lt;a href=&quot;/assets/images/6-google/crowd1.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/crowd1.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/6-google/crowd2.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/crowd2.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Derek Greene presenting his talk 'Topic Modelling with Scikit-Learn'. Second image displays an example of a typical text preprocessing pipeline for a document corpus.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;want-to-present-or-host-an-event&quot;&gt;Want to Present or Host an Event?&lt;/h2&gt;
