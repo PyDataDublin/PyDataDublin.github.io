@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-25T16:54:31+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin \#6 at Google</title><link href="/meetup-6/" rel="alternate" type="text/html" title="PyData Dublin \#6 at Google" /><published>2018-08-30T00:00:00+01:00</published><updated>2018-08-30T00:00:00+01:00</updated><id>/meetup-6</id><content type="html" xml:base="/meetup-6/">&lt;h6 id=&quot;pydata-dublin-6-at-google&quot;&gt;PyData Dublin #6 at Google&lt;/h6&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-25T19:45:46+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin \#6 at Google</title><link href="/meetup-6/" rel="alternate" type="text/html" title="PyData Dublin \#6 at Google" /><published>2018-08-30T00:00:00+01:00</published><updated>2018-08-30T00:00:00+01:00</updated><id>/meetup-6</id><content type="html" xml:base="/meetup-6/">&lt;h6 id=&quot;pydata-dublin-6-at-google&quot;&gt;PyData Dublin #6 at Google&lt;/h6&gt;
 
 &lt;p&gt;After a wee interval over the summer months, the 6th PyData Dublin meetup took place on Thursday evening, 30th August 2018, and was hosted by none other than &lt;a href=&quot;https://careers.google.com/locations/dublin/&quot; target=&quot;_blank&quot;&gt;Google&lt;/a&gt;. Once guests arrived at Google’s Grand Mill Quay Offices, they were escorted up to the wonderful Ocean’s Eleven floor where they were greeted by bird’s-eye views of Dublin and a delicious assortment of food and drinks. A perfect setting for pre-meetup networking.&lt;/p&gt;
 
@@ -32,7 +32,24 @@
   &lt;figcaption&gt;Abeba Birhane and Siobhán Grayson during their presentation.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;What better time to have a talk on using data for personal best prediction than with the Dublin Marathon just around the corner. During his talk, Barry describes how he first collected data from a large number of marathon websites using &lt;a href=&quot;https://scrapy.org&quot; target=&quot;_blank&quot;&gt;Scrapy&lt;/a&gt;, a Python scraping and web crawling framework. Then, using case based reasoning in combination with machine learning approaches (such as kNN, linear regression, random forests, and elastic nets), they were able to derive accurate predictions of personal best times across all levels of ability with less than 5% prediction error. Overall, the talk highlighted the huge potential that A.I. tools and techniques developed in other domains, such as recommender systems, have in the future of personalized and adaptive lifestyle assistants.&lt;/p&gt;
+&lt;p&gt;Abeba Birhane, who currently teaches an Ethics for Data Science course for third year computer scientists at UCD, began the talk by addressing the common misconceptions that many people have regarding the neutrality of automated systems and data. Our members were then posed two questions to be discussed with their neighbours for two minutes each. They were then asked to submit their responses via post-its provided on the night. The two questions and general results are as follows:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;span style=&quot;color:#ec904a&quot;&gt;Should data scientists be held to the same standard as physicians?&lt;/span&gt;&lt;br /&gt;
+Overall, it was a resounding “yes” from our participants. For more discussion on this point, check out this &lt;a href=&quot;https://twitter.com/Abebab/status/974225279513235456&quot; target=&quot;_blank&quot;&gt;Twitter thread&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;span style=&quot;color:#ec904a&quot;&gt;Who bears responsibility when a system is biased/unfair or used by third parties for malicious purposes? The individual who developed it? The organization? The third parties?&lt;/span&gt;&lt;br /&gt;
+This was a little more divided and admittedly, but the majority of our members though agreed that it was x who should bear the majority of the responsibility.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Finally, Siobhán Grayson concluded the talk by highlighting the resources available for anyone interested in delving deeper into current discussions regarding ethical data science. In particular, check out the following:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://abebabirhane.wordpress.com/2017/09/20/1162/&quot;&gt;Resources - On Automated Systems and Bias&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/Abebab&quot; target=&quot;_blank&quot;&gt;Abeba Birhane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Y0KMK1tfQ3A&quot; target=&quot;_blank&quot;&gt;Ethical Machine Learning&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/kjam&quot; target=&quot;_blank&quot;&gt;Katharine Jarmul&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ajlunited.org/&quot; target=&quot;_blank&quot;&gt;Algorithmic Justice League&lt;/a&gt; by &lt;a href=&quot;https://twitter.com/jovialjoy&quot; target=&quot;_blank&quot;&gt;Joy Buolamwini&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://auditingalgorithms.science/&quot; target=&quot;_blank&quot;&gt;Auditing Algorithms&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://auditingalgorithms.science/&quot; target=&quot;_blank&quot;&gt;Calling Bullshit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fast.ai/&quot; target=&quot;_blank&quot;&gt;fast.ai&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fatml.org/&quot; target=&quot;_blank&quot;&gt;FAT/ML&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;figure&gt;
   &lt;a href=&quot;/assets/images/6-google/abeba-chat.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/abeba-chat.jpg&quot; /&gt;&lt;/a&gt;
@@ -50,10 +67,10 @@
 &lt;figure class=&quot;half&quot;&gt;
   &lt;a href=&quot;/assets/images/6-google/anto.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/anto.jpg&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;/assets/images/6-google/anto-code.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/anto-code.jpg&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Food and drinks for all.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Antonio Bevilacqua and a small snippet from his live coding talk.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Dr. Derek Greene presented the second talk of the evening, where he walked through how easy it can be to efficiently perform text processing, representation, and topic modelling using Python’s scikit-learn package. In fact, he has provided all materials used for the talk as notebooks which can be found &lt;a href=&quot;https://github.com/derekgreene/topic-model-tutorial&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Interestingly, although the talk focused on applying topic modelling to documents, Derek noted that topic modelling has also been applied to non-textual datasets to. A recent example being Nathanael Aff’s: &lt;a href=&quot;http://nateaff.com/2017/09/11/lego-topic-models/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;LEGO color themes as topic models&lt;/em&gt;&lt;/a&gt;. Finally, Derek touched on the practical issues associated with topic modelling, emphasizing how it’s best used as an exploratory tool to aid human interpretation and how domain knowledge is critical.&lt;/p&gt;
+&lt;p&gt;Described as &lt;a href=&quot;https://twitter.com/sunnyd4y/status/1035238431771766786&quot; target=&quot;_blank&quot;&gt;“a seriously hilarious presentation”&lt;/a&gt; (aye, we pay attention to our Twitter community), Antonio Bevilacqua awed the audience with 20 minutes of live coding &lt;a href=&quot;https://twitter.com/phoxis/status/1035239419018727424&quot; target=&quot;_blank&quot;&gt;“demonstrating some fishy behaviors in Python”&lt;/a&gt;. Indeed, it would seem not all integers are created equal (See Figure above). This was an eloquent and humorous whirlwind tour of the numerous ways in which Python can catch us off-guard based on a popular lightning talk called ‘Wat’ by &lt;a href=&quot;https://twitter.com/garybernhardt&quot; target=&quot;_blank&quot;&gt;Gary Bernhardt&lt;/a&gt; which can be found &lt;a href=&quot;https://www.destroyallsoftware.com/talks/wat&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Alas, our hope is to one day get a video recording of Antonio’s Python ‘Wat’ so that we may finally share it with y’all in all it’s glory.&lt;/p&gt;
 
 &lt;h2 id=&quot;functional-programming-for-data-science&quot;&gt;Functional Programming for Data Science&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/neal_o_r&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Neal Ó Riain&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
@@ -66,19 +83,30 @@
 &lt;figure class=&quot;half&quot;&gt;
   &lt;a href=&quot;/assets/images/6-google/neal.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/neal.jpg&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;/assets/images/6-google/neal-glue.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/neal-glue.jpg&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Derek Greene presenting his talk 'Topic Modelling with Scikit-Learn'. Second image displays an example of a typical text preprocessing pipeline for a document corpus.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Neal Ó Riain presenting his talk 'Functional Programming for Data Science'.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;p&gt;Dr. Derek Greene presented the second talk of the evening, where he walked through how easy it can be to efficiently perform text processing, representation, and topic modelling using Python’s scikit-learn package. In fact, he has provided all materials used for the talk as notebooks which can be found &lt;a href=&quot;https://github.com/derekgreene/topic-model-tutorial&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;. Interestingly, although the talk focused on applying topic modelling to documents, Derek noted that topic modelling has also been applied to non-textual datasets to. A recent example being Nathanael Aff’s: &lt;a href=&quot;http://nateaff.com/2017/09/11/lego-topic-models/&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;LEGO color themes as topic models&lt;/em&gt;&lt;/a&gt;. Finally, Derek touched on the practical issues associated with topic modelling, emphasizing how it’s best used as an exploratory tool to aid human interpretation and how domain knowledge is critical.&lt;/p&gt;
+&lt;p&gt;Neal Ó Riain presented the third talk of the evening, where he discussed how to write modular functional code using Python as well as some of the strengths and weaknesses of Python as a functional language. Definitely check out the slides and code which contain detailed examples. Finally, a shout-out to the Python package Toolz, “A set of utility functions for iterators, functions, and dictionaries”, which Neal stated that if you’re not using it already you should be! And talk about Curry.&lt;/p&gt;
 
 &lt;h2 id=&quot;google---venue-food-and-drinks&quot;&gt;Google - Venue, Food, and Drinks&lt;/h2&gt;
 
-&lt;p&gt;A massive thanks again to Google who provided the amazing venue, food, and drinks for the night! They’re currently looking for talent across a number of different technical roles ranging from software developers to data scientists. For more information check out their website &lt;a href=&quot;https://www.workday.com/en-us/pages/careers-dublin.html&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A massive thanks again to Google who provided the amazing venue, food, and drinks for the night! They’re currently recruiting for the following roles:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Advanced Analytics roles:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://careers.google.com/jobs#!t=jo&amp;amp;jid=/google/senior-analyst-advanced-analytics-dublin-ireland-4203690394&amp;amp;&quot; target=&quot;_blank&quot;&gt;Senior Analyst, Advanced Analytics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://careers.google.com/jobs#!t=jo&amp;amp;jid=/google/analyst-advanced-analytics-business-dublin-ireland-4222640178&amp;amp;&quot; target=&quot;_blank&quot;&gt;Analyst, Advanced Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Data analyst Role:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://careers.google.com/jobs#!t=jo&amp;amp;jid=/google/business-intelligence-analyst-finance-dublin-ireland-4108750030&amp;amp;&quot; target=&quot;_blank&quot;&gt;Business Intelligence Analyst&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;figure class=&quot;half&quot;&gt;
   &lt;a href=&quot;/assets/images/6-google/crowd1.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/crowd1.jpg&quot; /&gt;&lt;/a&gt;
   &lt;a href=&quot;/assets/images/6-google/crowd2.jpg&quot;&gt;&lt;img src=&quot;/assets/images/6-google/crowd2.jpg&quot; /&gt;&lt;/a&gt;
-  &lt;figcaption&gt;Derek Greene presenting his talk 'Topic Modelling with Scikit-Learn'. Second image displays an example of a typical text preprocessing pipeline for a document corpus.&lt;/figcaption&gt;
+  &lt;figcaption&gt;Members enjoying the ambience and networking with fellow data science and coding enthusiasts.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;h2 id=&quot;want-to-present-or-host-an-event&quot;&gt;Want to Present or Host an Event?&lt;/h2&gt;
