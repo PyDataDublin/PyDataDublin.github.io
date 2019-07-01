@@ -1,4 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-09-25T19:45:46+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin \#6 at Google</title><link href="/meetup-6/" rel="alternate" type="text/html" title="PyData Dublin \#6 at Google" /><published>2018-08-30T00:00:00+01:00</published><updated>2018-08-30T00:00:00+01:00</updated><id>/meetup-6</id><content type="html" xml:base="/meetup-6/">&lt;h6 id=&quot;pydata-dublin-6-at-google&quot;&gt;PyData Dublin #6 at Google&lt;/h6&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-07-01T12:14:18+01:00</updated><id>/</id><title type="html">PyData Dublin</title><subtitle>Blog</subtitle><author><name>PyData Dublin</name></author><entry><title type="html">PyData Dublin \#7 at TU Dublin</title><link href="/meetup-7/" rel="alternate" type="text/html" title="PyData Dublin \#7 at TU Dublin" /><published>2019-06-26T00:00:00+01:00</published><updated>2019-06-26T00:00:00+01:00</updated><id>/meetup-7</id><content type="html" xml:base="/meetup-7/">&lt;h6 id=&quot;pydata-dublin-7-at-tu-dublin&quot;&gt;PyData Dublin #7 at TU Dublin&lt;/h6&gt;
+
+&lt;p&gt;PyData Dublin Meetup #7 was hosted by &lt;a href=&quot;https://www.dit.ie/&quot; target=&quot;_blank&quot;&gt;TU Dublin&lt;/a&gt; on Wednesday evening, 26th June 2019. We’re immensely grateful to &lt;a href=&quot;http://www.dit.ie/computing/people/academicstaff/staff/staffname165458en.html&quot; target=&quot;_blank&quot;&gt;Bojan Božić&lt;/a&gt;, Assistant Lecturer at TU Dublin, for making this possible! We didn’t get a chance to snap a photo but we feel the image below is a good proxy for the amount of pizza TU Dublin provided!&lt;/p&gt;
+
+&lt;p&gt;10/10 would recommend again! 🤤😊&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/pizza-proxy.jpg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/pizza-proxy.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;A proxy image for the amount of pizza TU Dublin graciously provided for the event. Source: https://www.thedailymeal.com/mind-blowing-facts-about-pizza&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;understanding-traffic-through-video-analytics-from-instrumented-vehicles&quot;&gt;Understanding traffic through video analytics from instrumented vehicles&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/suz_research&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Suzanne Little&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;/assets/slides/7-tudublin/suzannelittle_pydata.pdf&quot; target=&quot;_blank&quot; style=&quot;color:#8b8d32;&quot;&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An immense amount of data is produced for a single instrumented vehicle making it impossible to annotate manually. Therefore, automated image techniques are being employed to help. As a Principal Investigator on the EU H2020 funded Cloud-LSVA and VI-DAS projects, Suzanne discussed the research behind utilising big video and sensor data from instrumented vehicles for understanding traffic.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/bigdata-slide.jpeg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/bigdata-slide.jpeg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/roo-slide.jpeg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/roo-slide.jpeg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Suzanne Little presenting her talk 'Understanding traffic through video analytics from instrumented vehicles'.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;the-birth-of-error-functions-in-neural-networks&quot;&gt;The Birth of Error Functions in Neural Networks&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/MLDawn2018&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Mehran H. Bazargani&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;https://vimeo.com/345028655&quot; target=&quot;_blank&quot; style=&quot;color:#ec904a;&quot;&gt;&lt;strong&gt;Video&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;/assets/slides/7-tudublin/mehranBazargani-pydata.pdf&quot; target=&quot;_blank&quot; style=&quot;color:#8b8d32;&quot;&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;https://www.mldawn.com/binary-classification-from-scratch-using-numpy/&quot; target=&quot;_blank&quot; style=&quot;color:#8b8d32;&quot;&gt;&lt;strong&gt;Demo and Code&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This talk was about the birth of error functions in Neural Networks. In particular, how Bayes’ rule can be used to develop such error functions. Throughout, Mehran explores the derivations, and specifically, explains how the Binary Cross Entropy error function is derived.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/ann-slide.jpeg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/ann-slide.jpeg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/bayes-slide.jpeg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/bayes-slide.jpeg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Mehran H. Bazargani presenting his talk 'The Birth of Error Functions in Neural Networks'.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;probably-music&quot;&gt;Probably Music&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/josh-smith-dublin/&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Josh Smith&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;//&lt;/strong&gt;
+&lt;a href=&quot;https://www.linkedin.com/in/josh-smith-dublin/&quot; target=&quot;_blank&quot; style=&quot;color:#8b8d32;&quot;&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/a&gt; * Soon!&lt;/p&gt;
+
+&lt;p&gt;Hidden Markov Models (HMMs) have the ability to interpret, generate, critique, and classify music. In this talk, Josh explored these four domain specific HMM use cases through the construction of a Python application that interprets MIDI files as music, critiques the source music and generates new music that is derived from the source.&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/music-slide.jpeg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/music-slide.jpeg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/music-history-slide.jpeg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/music-history-slide.jpeg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;Josh Smith presenting his talk 'Probably Music'.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;tu-dublin---venue-food-and-drinks&quot;&gt;TU Dublin - Venue, Food, and Drinks&lt;/h2&gt;
+
+&lt;p&gt;A massive thanks again to TU Dublin who provided the fantastic venue, food, and drinks for the night!&lt;/p&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/tudublin-logo.jpg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/tudublin-logo.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;a href=&quot;/assets/images/7-tudublin/tudublin-group.jpg&quot;&gt;&lt;img src=&quot;/assets/images/7-tudublin/tudublin-group.jpg&quot; /&gt;&lt;/a&gt;
+  &lt;figcaption&gt;TU Dublin logo and TU Dublin students with logo.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;want-to-present-or-host-an-event&quot;&gt;Want to Present or Host an Event?&lt;/h2&gt;
+
+&lt;p&gt;Finally, if you’d like to present a talk or become a host for one of our events, please feel free to contact us through one of our many public forums (Twitter being the most active) or via email at:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/pydatadub-email.png&quot; height=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We’re interested in a range of different talk types:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;5 minute lightning talks, from describing a library you’ve found useful, to things you wish you’d known when you first started, or even the top 5 packages that you couldn’t live without.&lt;/li&gt;
+  &lt;li&gt;15-20 minute talk with questions. Perhaps you’ve recently written a blog, project, or paper that relates to data analysis, management, processing, or visualization. Let us know and we can help you share it with the larger PyData community.&lt;/li&gt;
+  &lt;li&gt;40 minute tutorial with questions, not only would you like to share your work but you’re interested in teaching/providing examples of the implementation behind it to.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>PyData Dublin</name></author><category term="blog" /><summary type="html">A summary of our 7th event held in TU Dublin with links to accompanying slides and code.</summary></entry><entry><title type="html">PyData Dublin \#6 at Google</title><link href="/meetup-6/" rel="alternate" type="text/html" title="PyData Dublin \#6 at Google" /><published>2018-08-30T00:00:00+01:00</published><updated>2018-08-30T00:00:00+01:00</updated><id>/meetup-6</id><content type="html" xml:base="/meetup-6/">&lt;h6 id=&quot;pydata-dublin-6-at-google&quot;&gt;PyData Dublin #6 at Google&lt;/h6&gt;
 
 &lt;p&gt;After a wee interval over the summer months, the 6th PyData Dublin meetup took place on Thursday evening, 30th August 2018, and was hosted by none other than &lt;a href=&quot;https://careers.google.com/locations/dublin/&quot; target=&quot;_blank&quot;&gt;Google&lt;/a&gt;. Once guests arrived at Google’s Grand Mill Quay Offices, they were escorted up to the wonderful Ocean’s Eleven floor where they were greeted by bird’s-eye views of Dublin and a delicious assortment of food and drinks. A perfect setting for pre-meetup networking.&lt;/p&gt;
 
